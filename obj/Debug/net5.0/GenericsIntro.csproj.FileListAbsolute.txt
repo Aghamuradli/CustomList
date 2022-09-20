@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\bin\Debug\net5.0\GenericsIntro.exe
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\bin\Debug\net5.0\GenericsIntro.deps.json
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\bin\Debug\net5.0\GenericsIntro.runtimeconfig.json
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\bin\Debug\net5.0\GenericsIntro.runtimeconfig.dev.json
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\bin\Debug\net5.0\GenericsIntro.dll
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\bin\Debug\net5.0\GenericsIntro.pdb
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\obj\Debug\net5.0\GenericsIntro.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\obj\Debug\net5.0\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\obj\Debug\net5.0\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\obj\Debug\net5.0\GenericsIntro.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\obj\Debug\net5.0\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\obj\Debug\net5.0\GenericsIntro.dll
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\obj\Debug\net5.0\refint\GenericsIntro.dll
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\obj\Debug\net5.0\GenericsIntro.pdb
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\obj\Debug\net5.0\GenericsIntro.genruntimeconfig.cache
+C:\Users\Agamuradov\source\repos\OOP1\GenericsIntro\obj\Debug\net5.0\ref\GenericsIntro.dll
